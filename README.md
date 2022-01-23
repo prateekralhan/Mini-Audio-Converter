@@ -1,4 +1,4 @@
-# 🎼🎶 Mini-Audio Converter 🎙🔉 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+# 🎼🎶 Mini-Audio Converter [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](ttps://mini-audio-converter.herokuapp.com/)
 
 A simple Streamlit based webapp to convert Audio files of numerous formats to the desired format required by the user.
 
