@@ -17,8 +17,10 @@ A simple Streamlit based webapp to convert Audio files of numerous formats to th
 streamlit run app.py
 ```
 4. Navigate to http://localhost:8501 in your web-browser.
-5. By default, streamlit allows us to upload files of **max. 200MB**. If you want to have more size for uploading audio files, execute the command ***streamlit run your_script.py --server.maxUploadSize=1028***
-
+5. By default, streamlit allows us to upload files of **max. 200MB**. If you want to have more size for uploading audio files, execute the command :
+```
+streamlit run your_script.py --server.maxUploadSize=1028
+```
 <kbd>
 <img src="demos/demo_1.gif" data-canonical-src="demos/demo_1.gif"/> 
 </kbd>
